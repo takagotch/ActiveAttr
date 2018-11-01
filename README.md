@@ -3,7 +3,7 @@
 https://github.com/cgriego/active_attr
 
 
-```rub
+```ruby
 class Person
   include ActiveAttr::Attributes
   attribute :first_name
